@@ -47,3 +47,6 @@ Hint:
 
 File: [life_in_weeks.py](https://github.com/codenvibes/100DaysofCode/blob/master/Day_2/life_in_weeks.py)
 
+## Project: Tip Calculator
+
+File: [tip_calculator.py](https://github.com/codenvibes/100DaysofCode/blob/master/Day_2/tip_calculator.py)
