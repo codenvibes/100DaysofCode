@@ -12,6 +12,9 @@ Write a program that calculates the Body Mass Index (BMI) from a user's weight a
 The BMI is a measure of someone's weight taking into account their height. e.g. If a tall person and a short person both weigh the same amount, the short person is usually more overweight.
 
 The BMI is calculated by dividing a person's weight (in kg) by the square of their height (in m):
+
+<img src="https://github.com/codenvibes/100DaysofCode/blob/master/Day_2/BMI_calculator.py"/>
+
 ![img](https://codingrooms-user-uploads-us-west-2.s3-us-west-2.amazonaws.com/be5ff193-a1ad-4f8e-ba40-504c85610518/BMI+Image+Small.jpeg)
 
 Warning: you should convert the result to a whole number.
