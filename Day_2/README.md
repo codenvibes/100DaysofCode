@@ -45,4 +45,5 @@ Hint:
 1. There are 365 days in a year, 52 weeks in a year and 12 months in a year.
 2. Try copying the example output into your code and replacing the relevant parts so that the sentence is formated the same way.
 
-File: [life_in_weeks.py]()
+File: [life_in_weeks.py](https://github.com/codenvibes/100DaysofCode/blob/master/Day_2/life_in_weeks.py)
+
