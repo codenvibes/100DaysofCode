@@ -13,9 +13,7 @@ The BMI is a measure of someone's weight taking into account their height. e.g. 
 
 The BMI is calculated by dividing a person's weight (in kg) by the square of their height (in m):
 
-<img src="https://codingrooms-user-uploads-us-west-2.s3-us-west-2.amazonaws.com/be5ff193-a1ad-4f8e-ba40-504c85610518/BMI+Image+Small.jpeg"/>
-
-![img](https://codingrooms-user-uploads-us-west-2.s3-us-west-2.amazonaws.com/be5ff193-a1ad-4f8e-ba40-504c85610518/BMI+Image+Small.jpeg)
+<img src="https://codingrooms-user-uploads-us-west-2.s3-us-west-2.amazonaws.com/be5ff193-a1ad-4f8e-ba40-504c85610518/BMI+Image+Small.jpeg" alt="BMI formula" width="200" align="middle"/>
 
 Warning: you should convert the result to a whole number.
 
