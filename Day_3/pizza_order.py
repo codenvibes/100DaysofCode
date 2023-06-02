@@ -16,12 +16,11 @@ elif size == "S":
     bill = 15
 
 # Add Pepperoni
-if (size == "L" or size == "M") and add_pepperoni == "Y":
-    bill += 3
-elif size == "S" and add_pepperoni == "Y":
-    bill += 2
-elif add_pepperoni == "N":
-    bill += 0
+if add_pepperoni == "Y":
+    if size == "S":
+        bill += 2
+    else:
+        bill += 3
 
 # Add cheese
 if extra_cheese == "Y":
