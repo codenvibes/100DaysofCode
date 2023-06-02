@@ -148,5 +148,6 @@ Example Output 2
 ```
 Not leap year.
 ```
+<img src="https://github.com/codenvibes/100DaysofCode/blob/master/Day_3/leap_year_flowchart.png"/>
 
 </details>
