@@ -52,6 +52,7 @@ Example Output 2
 ```
 This is an even number.
 ```
+File: [odd_or_even.py]()
 </details>
 
 
@@ -92,6 +93,8 @@ Hint
 1. Try to use the exponent operator in your code.
 1. Remember to round your result to the nearest whole number.
 1. Make sure you include the words in bold from the interpretations.
+
+File: [BMI_calculator.py]()
 </details>
 
 <details>
@@ -150,4 +153,42 @@ Not leap year.
 ```
 <img src="https://github.com/codenvibes/100DaysofCode/blob/master/Day_3/leap_year_flowchart.png"/>
 
+<br>
+
+File: [leap_year.py]()
+</details>
+
+<details>
+<summary>
+
+## Exercise 4 - Pizza Order Practice
+</summary>
+
+Congratulations, you've got a job at Python Pizza. Your first job is to build an automatic pizza order program.
+
+Based on a user's order, work out their final bill.
+
+Small Pizza: $15
+
+Medium Pizza: $20
+
+Large Pizza: $25
+
+Pepperoni for Small Pizza: +$2
+
+Pepperoni for Medium or Large Pizza: +$3
+
+Extra cheese for any size pizza: + $1
+
+Example Input
+```
+size = "L"
+add_pepperoni = "Y"
+extra_cheese = "N"
+```
+Example Output
+```
+Your final bill is: $28.
+```
+File: [pizza_order.py]()
 </details>
