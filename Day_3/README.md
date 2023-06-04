@@ -52,7 +52,7 @@ Example Output 2
 ```
 This is an even number.
 ```
-File: [odd_or_even.py]()
+File: [odd_or_even.py](https://github.com/codenvibes/100DaysofCode/blob/master/Day_3/odd_or_even.py)
 </details>
 
 
@@ -94,7 +94,7 @@ Hint
 1. Remember to round your result to the nearest whole number.
 1. Make sure you include the words in bold from the interpretations.
 
-File: [BMI_calculator.py]()
+File: [BMI_calculator.py](https://github.com/codenvibes/100DaysofCode/blob/master/Day_3/BMI_calculator.py)
 </details>
 
 <details>
@@ -155,7 +155,7 @@ Not leap year.
 
 <br>
 
-File: [leap_year.py]()
+File: [leap_year.py](https://github.com/codenvibes/100DaysofCode/blob/master/Day_3/leap_year.py)
 </details>
 
 <details>
@@ -190,7 +190,7 @@ Example Output
 ```
 Your final bill is: $28.
 ```
-File: [pizza_order.py]()
+File: [pizza_order.py](https://github.com/codenvibes/100DaysofCode/blob/master/Day_3/pizza_order.py)
 </details>
 
 <details>
@@ -268,5 +268,17 @@ Example Output 2
 ```
 Your score is 73.
 ```
-File: []()
+File: [love_calculator.py](https://github.com/codenvibes/100DaysofCode/blob/master/Day_3/love_calculator.py)
+</details>
+
+<details>
+<summary>
+
+## Project: Treasure Island
+</summary>
+
+
+![](https://github.com/codenvibes/100DaysofCode/blob/master/Day_3/treasure_island_flowchart.png)
+
+File: [treasure_island.py](https://github.com/codenvibes/100DaysofCode/blob/master/Day_3/treasure_island.py)
 </details>
