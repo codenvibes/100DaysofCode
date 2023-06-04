@@ -27,15 +27,12 @@ print("Your mission is to find the treasure.")
 
 #Write your code below this line 👇
 
-print("You're at a cross road. Where do you want to go? Type \"left\" or \"right\"")
-left_or_right = input().lower()
+left_or_right = input("You're at a cross road. Where do you want to go? Type \"left\" or \"right\"\n").lower()
 
 if left_or_right == "left":
-    print("At the end of the road you see a lake. What will you do? Type \"swim\" or \"wait\"")
-    swim_or_wait = input().lower()
+    swim_or_wait = input("At the end of the road you see a lake. What will you do? Type \"swim\" or \"wait\"\n").lower()
     if swim_or_wait == "wait":
-        print("You decide to wait and spot 3 doors. Which door will you pick? Type \"Red\", \"Blue\" or \"Yellow\"")
-        door = input().lower()
+        door = input("You decide to wait and spot 3 doors. Which door will you pick? Type \"Red\", \"Blue\" or \"Yellow\"\n").lower()
         if door == "yellow":
             print("You win! Mazletov you found the treasure!")
         elif door == "red":
