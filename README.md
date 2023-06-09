@@ -3,7 +3,7 @@ Course by: **Dr. Angela Yu**
 #### ☑️[Day 1 - Beginner - Working with Variables in Python to Manage Data](https://github.com/codenvibes/100DaysofCode/tree/master/Day_1)
 #### ☑️[Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings](https://github.com/codenvibes/100DaysofCode/tree/master/Day_2)
 #### ☑️[Day 3 - Beginner - Control Flow and Logical Operators](https://github.com/codenvibes/100DaysofCode/tree/master/Day_3)
-#### [Day 4 - Beginner - Randomisation and Python Lists]()
+#### [Day 4 - Beginner - Randomisation and Python Lists](https://github.com/codenvibes/100DaysofCode/tree/master/Day_4)
 #### [Day 5 - Beginner - Python Loops]()
 #### [Day 6 - Beginner - Python Functions & Karel]()
 #### [Day 7 - Beginner - Hangman]()
