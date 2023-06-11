@@ -161,8 +161,8 @@ Start the game by asking the player:
 
 From there you will need to figure out:
 
-How you will store the user's input.
-How you will generate a random choice for the computer.
-How you will compare the user's and the computer's choice to determine the winner (or a draw).
-And also how you will give feedback to the player.
+- How you will store the user's input.
+- How you will generate a random choice for the computer.
+- How you will compare the user's and the computer's choice to determine the winner (or a draw).
+- And also how you will give feedback to the player.
 </details>
