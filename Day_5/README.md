@@ -4,6 +4,7 @@
 <summary>
 
 ## Exercise 1 - Average Height
+File: [average_height.py](https://github.com/codenvibes/100DaysofCode/blob/master/Day_5/average_height.py)
 </summary>
 
 You are going to write a program that calculates the average student height from a List of heights.
