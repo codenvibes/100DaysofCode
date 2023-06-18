@@ -66,3 +66,20 @@ Hint:
 
 Think about the logic before writing code. How can you compare numbers against each other to see which one is larger?
 </details>
+
+<details>
+<summary>
+
+## Exercise 3 - Adding Even Numbers
+File: [adding_even_numbers.py](https://github.com/codenvibes/100DaysofCode/blob/master/Day_5/adding_even_numbers.py)
+</summary>
+
+You are going to write a program that calculates the sum of all the even numbers from 1 to 100. Thus, the first even number would be 2 and the last one is 100:
+
+i.e. 2 + 4 + 6 + 8 +10 ... + 98 + 100
+
+Important, there should only be 1 print statement in your console output. It should just print the final total and not every step of the calculation.
+
+Hint:
+There are quite a few ways of solving this problem, but you will need to use the `clear` function in any of the solutions.
+</details>
