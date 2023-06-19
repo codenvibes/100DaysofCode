@@ -11,33 +11,39 @@ nr_numbers = int(input(f"How many numbers would you like?\n"))
 
 #Eazy Level - Order not randomised:
 #e.g. 4 letter, 2 symbol, 2 number = JduE&!91
-random_letters = ""
-for letter in range(0, nr_letters):
-    random_letters += random.choice(letters)
+# password = ""
+# for letter in range(0, nr_letters):
+#     password += random.choice(letters)
 
-random_symbols = ""
-for symbol in range(0, nr_symbols):
-    random_symbols += random.choice(symbols)
+# for symbol in range(0, nr_symbols):
+#     password += random.choice(symbols)
 
-random_numbers = ""
-for number in range(0, nr_numbers):
-    random_numbers += random.choice(numbers)
+# for number in range(0, nr_numbers):
+#     password += random.choice(numbers)
 
-print (random_letters + random_symbols + random_numbers)
-
+# print (password)
 
 #Hard Level - Order of characters randomised:
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
-random_list = [random_letters + random_symbols + random_numbers]
-broken_list = []
 
-for element in random_list:
-    for char in element:
-        broken_list.append(char)
+password_list = []
+for letter in range(0, nr_letters):
+    password_list += random.choice(letters)
 
-random.shuffle(broken_list)
+for symbol in range(0, nr_symbols):
+    password_list += random.choice(symbols)
 
+for number in range(0, nr_numbers):
+    password_list += random.choice(numbers)
+
+# rearrange list randomly
+# print(password_list)
+random.shuffle(password_list)
+# print(password_list)
+
+# switch list to string
 password = ""
-for x in broken_list:
-    password += x
-print(password)
+for char in password_list:
+    password += char
+
+print(f"Your password is: {password}")
